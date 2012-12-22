@@ -1,4 +1,1 @@
-p3
-==
-
-P3 - The PIG PreProcessor
+http://pig.apache.org/docs/r0.9.1/cont.html#import-macros
